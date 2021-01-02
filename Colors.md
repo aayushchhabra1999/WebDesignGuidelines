@@ -2,7 +2,7 @@
 
 1. Use only one base color. Too many colors look horrible.
 
-- A good resource to pick base colors is
+    - A good resource to pick base colors is
   [Flat UI Colors](https://flatuicolors.com).
 
 2. Besides a base color, you can pick a lighter and darker shade of the base color to create a nice color palette.
