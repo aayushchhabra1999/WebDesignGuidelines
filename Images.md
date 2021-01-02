@@ -13,4 +13,4 @@
 6. **Floor Fade** - Technique where an image subtly fades towards black at the bottom with white text written over it.
 
 7. **Where to get images?**
-    - Check this [Resources for Free Images](http://codingheroes.io/resources/#images)
+    - Check this   [Resources for Free Images](http://codingheroes.io/resources/#images)
